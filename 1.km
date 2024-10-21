@@ -1,0 +1,83 @@
+{
+    "root": {
+        "data": {
+            "id": "d517g77b0yo0",
+            "created": 1729485519381,
+            "text": "Abertura 1 Jam ",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d517iksgxsw0",
+                    "created": 1729485705687,
+                    "text": "Dangerous 2 Abizael",
+                    "layout_bottom_offset": {
+                        "x": 373.9999940554307,
+                        "y": -0.9999999841055853
+                    },
+                    "layout_mind_offset": {
+                        "x": -163.99999836683298,
+                        "y": 71.00000051259991
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d517j2xco540",
+                            "created": 1729485745165,
+                            "text": "Beat It 3 Abizael & Ricardo",
+                            "layout_bottom_offset": {
+                                "x": 179.9999971389774,
+                                "y": -81.99999869664518
+                            },
+                            "color": "white",
+                            "font-style": "italic",
+                            "background": "#000000",
+                            "layout_right_offset": {
+                                "x": -20.99999966621391,
+                                "y": -83.99999866485604
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d517mztl5ls0",
+                                    "created": 1729486051863,
+                                    "text": "Thriller Abizael 4",
+                                    "background": "#1f497d",
+                                    "color": "white",
+                                    "font-size": 18,
+                                    "layout_right_offset": {
+                                        "x": -14.999999761581307,
+                                        "y": -134.99999785423287
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d517iyhtu6w0",
+                    "created": 1729485735519,
+                    "text": "JAM 1 +Abizael ",
+                    "layout_bottom_offset": {
+                        "x": -85.99999863306704,
+                        "y": 1.999999968210858
+                    },
+                    "layout_mind_offset": {
+                        "x": 209.99999666214015,
+                        "y": 71.99999885559092
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43"
+}
