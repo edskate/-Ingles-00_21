@@ -28,3 +28,8 @@ table:hover{
     text-align: center;
     border: 1px solid #f6ecec;
 }
+li{
+    color: aquamarine;
+    text-shadow: -10px 10px 10px #54640b;
+    padding: 5px;
+}
